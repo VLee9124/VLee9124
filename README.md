@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi, I'm Victor 👋. I'm currently studying Computer Science + Mathematics. Checkout some stuff that I've worked on.
 <!--
 **VLee9124/VLee9124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
